@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Backend Stacks**
 
-- 👯 I’m looking to collaborate on **TimeiT**
 
 - 📫 How to reach me **robin1238andres@gmail.com**
 
