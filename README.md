@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a target:"_blank">https://robin1238.github.io/</a>
+<a href="https://robin1238.github.io/" target:"_blank">Robbin</a>
 </p>
 
 <h3 align="left">Support:</h3>
